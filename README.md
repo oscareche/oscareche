@@ -4,8 +4,8 @@ I am a data analyst focused on turning operational and customer data into clear,
 
 ## Projects
 
-- [Hospital Operations Analysis](https://github.com/oscareche/hospital-operations-analysis) — SQL analysis of hospital demand, length of stay, capacity, resource use, and readmissions.
-- [Bank Customer Churn Analysis](https://github.com/oscareche/banking-customer-churn) — customer segmentation and churn analysis with findings and retention recommendations.
+- [Hospital Operations Analysis](https://github.com/oscareche/hospital-operations-analysis): SQL analysis of hospital demand, length of stay, capacity, resource use, and readmissions.
+- [Bank Customer Churn Analysis](https://github.com/oscareche/banking-customer-churn): customer segmentation and churn analysis with findings and retention recommendations.
 - [Portfolio website](https://oscareche.github.io/) — background, project highlights, and contact links.
 
 ## Tools
