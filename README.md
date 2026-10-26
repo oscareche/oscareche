@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I am Oscar Eche
 
-<!--
-**oscareche/oscareche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst focused on turning operational and customer data into clear, decision-ready insights. I work with SQL, Google Sheets, Power BI, BigQuery, Python, and R.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hospital Operations Analysis](https://github.com/oscareche/hospital-operations-analysis) — SQL analysis of hospital demand, length of stay, capacity, resource use, and readmissions.
+- [Bank Customer Churn Analysis](https://github.com/oscareche/banking-customer-churn) — customer segmentation and churn analysis with findings and retention recommendations.
+- [Portfolio website](https://oscareche.github.io/) — background, project highlights, and contact links.
+
+## Tools
+
+SQL · Google Sheets · Power BI · BigQuery · Python · R
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/oscareche) · [Portfolio](https://oscareche.github.io/) · [GitHub](https://github.com/oscareche)
