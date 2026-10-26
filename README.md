@@ -1,17 +1,19 @@
-# Hi, I am Oscar Eche
+# Oscar Echesirim
 
-I am a data analyst focused on turning operational and customer data into clear, decision-ready insights. I work with SQL, Google Sheets, Power BI, BigQuery, Python, and R.
+Data analyst. I take messy operational and customer data, clean it properly, and turn it into findings someone can act on. Based in the East Midlands and open to data analyst roles in the UK, hybrid or remote.
 
 ## Projects
 
-- [Hospital Operations Analysis](https://github.com/oscareche/hospital-operations-analysis): SQL analysis of hospital demand, length of stay, capacity, resource use, and readmissions.
-- [Bank Customer Churn Analysis](https://github.com/oscareche/banking-customer-churn): customer segmentation and churn analysis with findings and retention recommendations.
-- [Portfolio website](https://oscareche.github.io/) — background, project highlights, and contact links.
+**[Bank Customer Churn Analysis](https://github.com/oscareche/banking-customer-churn)** · SQL, BigQuery, Excel  
+One in five customers left a 10,000-customer bank. Customers aged 46–60 churned at 51%, 2.5× the base rate, and every customer holding four products left. Seven findings, each paired with a retention recommendation.
+
+**[Hospital Operations Analysis](https://github.com/oscareche/hospital-operations-analysis)** · SQL (MySQL)  
+Demand, length of stay, capacity, resource use and readmissions across 5,075 hospital records. ADD YOUR STRONGEST FINDING HERE, WITH ITS NUMBER.
 
 ## Tools
 
-SQL · Google Sheets · Power BI · BigQuery · Python · R
+SQL (BigQuery, MySQL, T-SQL) · Python (pandas) · Power BI · Excel and Google Sheets
 
-## Connect
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/oscareche) · [Portfolio](https://oscareche.github.io/) · [GitHub](https://github.com/oscareche)
+[Portfolio](https://oscareche.github.io/) · [LinkedIn](https://www.linkedin.com/in/oscareche) · oscar.eche11@gmail.com
