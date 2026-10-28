@@ -1,6 +1,6 @@
 # Oscar Echesirim
 
-Data analyst. I take messy operational and customer data, clean it properly, and turn it into findings someone can act on. Based in the East Midlands and open to data analyst roles in the UK, hybrid or remote.
+I am a Data analyst and automation engineer. I take messy operational and customer data, clean it properly, and turn it into findings someone can act on. Based in the East Midlands and open to data analyst roles in the UK, hybrid or remote.
 
 ## Projects
 
