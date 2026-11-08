@@ -16,4 +16,4 @@ SQL (BigQuery, MySQL, T-SQL) · Python (pandas) · Power BI · Excel and Google 
 
 ## Contact
 
-[Portfolio](https://oscareche.github.io/) · [LinkedIn](https://www.linkedin.com/in/oscareche) · oscar.eche11@gmail.com
+[Portfolio](https://oscareche.github.io/) · [LinkedIn](https://www.linkedin.com/in/oscareche) · oscarechesirim@gmail.com
